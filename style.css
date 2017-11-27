@@ -36,11 +36,11 @@ body {
 	background-color: #0000ff;
 }
 
-.off_white {content:url(images/off_w.png);}
-.on_white {content:url(images/on_w.png);}
+.off_white {content:url(off_w.png);}
+.on_white {content:url(on_w.png);}
 
-.off_purple {content:url(images/off_p.png);}
-.on_purple {content:url(images/on_p.png);}
+.off_purple {content:url(off_p.png);}
+.on_purple {content:url(on_p.png);}
 
-.off_blue {content:url(images/off_blue.png);}
-.on_blue {content:url(images/on_blue.png);}
+.off_blue {content:url(off_blue.png);}
+.on_blue {content:url(on_blue.png);}
